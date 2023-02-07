@@ -8,7 +8,7 @@ Web application to manage my watch list, which could be any anime, movie, series
 
 - [] user can sign up to the application
 - [] user can sign in into the application
-- [] user can see his own profile data
+- [x] user can see his own profile data
 - [] user can update his profile
 
 ### Watch List
